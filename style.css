@@ -31,3 +31,11 @@ a{
       margin: 10px;
       border-radius: 20px;
 }
+#oo{
+    background-color: goldenrod;  
+     
+      margin: 10px;
+      border-radius: 20px;
+      color: black;
+      font-weight: bold;
+}
